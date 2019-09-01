@@ -11,6 +11,6 @@ public class yatzyTest {
     }
 
     private Object score(String ones, int[] ints) {
-        return 
+
     }
 }
