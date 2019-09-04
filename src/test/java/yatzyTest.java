@@ -10,7 +10,9 @@ public class yatzyTest {
         assertEquals(5, score("ONES", new int[] { 1, 1, 1, 1, 1 }));
     }
 
-    private Object score(String ones, int[] ints) {
-
+    private int score(String category, int[] dice) {
+        for ()
+        }
     }
+
 }
