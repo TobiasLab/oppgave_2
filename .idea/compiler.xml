@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="oppgave_2" />
         <module name="first_maven_project" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="first_maven_project" target="11" />
+      <module name="oppgave_2" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
