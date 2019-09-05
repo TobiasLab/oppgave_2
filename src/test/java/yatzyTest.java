@@ -37,7 +37,7 @@ public class yatzyTest {
         return dieValue;
     }
 
-    @Test
+    /*@Test
     void shouldCalculateForThrees() {
         assertEquals( 0, scoreThrees("THREES", new int[] { 1, 2, 4, 5, 6}));
         assertEquals( 3, scoreThrees("THREES", new int[] { 3, 3, 3, 5, 6}));
@@ -45,7 +45,7 @@ public class yatzyTest {
     }
 
     private int scoreThrees(String category, int[] dice) {
-    }
+    } */
 }
 
 
